@@ -19,12 +19,12 @@ A simple and intuitive local task manager application built for learning purpose
 
 ### Screenshots
 
-![Screenshot_20241218_184022_Actionary 1](https://github.com/user-attachments/assets/3c39f1df-d8ee-4650-8fe9-6ac901a642e6)
-![Screenshot_20241218_184031_Actionary 1](https://github.com/user-attachments/assets/963a702c-eb6e-4024-9313-770b392e629a)
-![Screenshot_20241218_184105_Actionary 1](https://github.com/user-attachments/assets/c3162766-d827-4602-88fe-b54d98dffa42)
-![Screenshot_20241218_184052_Actionary 1](https://github.com/user-attachments/assets/2e975d1f-03c2-483e-af64-c21aa546e83d)
-![Screenshot_20241218_184042_Actionary 1](https://github.com/user-attachments/assets/ab034552-3d07-4ed3-bf78-c30c923f9c6b)
-![Screenshot_20241218_184037_Actionary 1](https://github.com/user-attachments/assets/4f666a72-315e-4dc9-9780-99b777645c6c)
+<img src="https://github.com/user-attachments/assets/3c39f1df-d8ee-4650-8fe9-6ac901a642e6" width="300"/>
+<img src="https://github.com/user-attachments/assets/963a702c-eb6e-4024-9313-770b392e629a" width="300"/>
+<img src="https://github.com/user-attachments/assets/c3162766-d827-4602-88fe-b54d98dffa42" width="300"/>
+<img src="https://github.com/user-attachments/assets/2e975d1f-03c2-483e-af64-c21aa546e83d" width="300"/>
+<img src="https://github.com/user-attachments/assets/ab034552-3d07-4ed3-bf78-c30c923f9c6b" width="300"/>
+<img src="https://github.com/user-attachments/assets/4f666a72-315e-4dc9-9780-99b777645c6c" width="300"/>
 
 
 ### Technologies Used
