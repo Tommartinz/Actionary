@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_task">Nueva Tarea</string>
+    <string name="edit_task">Editar Tarea</string>
+    <string name="name">Nombre</string>
+    <string name="cancel">Cancelar</string>
+    <string name="create">Crear</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="ascending">Ascendente</string>
+    <string name="descending">Descendente</string>
+    <string name="date_added">Fecha añadida</string>
+    <string name="settings">Configuración</string>
+    <string name="about">Acerca de</string>
+    <string name="application_name">Nombre de la aplicación</string>
+    <string name="version">Versión</string>
+    <string name="appearance">Apariencia</string>
+    <string name="theme">Tema</string>
+    <string name="follows_system">Predeterminado</string>
+    <string name="behavior">Comportamiento</string>
+    <string name="choose_theme">Elige un tema</string>
+    <string name="choose">Elegir</string>
+    <string name="delete_completed_tasks">Eliminar tareas completadas</string>
+    <string name="delete_tasks_when_completed">Cuando las marcas como completadas</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="system">Sistema</string>
+</resources>
