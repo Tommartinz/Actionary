@@ -2,7 +2,6 @@
 
 A simple and intuitive local task manager application built for learning purposes. It follows Android development best practices and guidelines to provide a clean and efficient user experience.
 
----
 ### Features
 
 - Create, edit and delete tasks.
@@ -31,7 +30,6 @@ A simple and intuitive local task manager application built for learning purpose
 - Settings: **DataStore**
 - Dependency Injection: **Dagger Hilt**
 
----
 ## Getting Started
 
 #### Prerequisites
